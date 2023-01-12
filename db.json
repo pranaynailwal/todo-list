@@ -1,5 +1,5 @@
 {
-"today" : [ "create resume", "buy eggs", "but books", "post letters", "design APIs"],
-"tomorrow" : [ "go to doctors", "file income tax", "pay electricity bill", "pay property tax" ],
-"upcoming" : [ "visit Jane", "plan birthday", "plan vaccation for europe", "book flights for for home"]
+"today" : [ {"name" : "create resume", "priority" : 1 }, {"name" :"buy eggs", "priority" : 2 }, {"name" :"but books", "priority" : 3 }, {"name" :"post letters", "priority" : 4 }, {"name" :"design APIs", "priority" : 2 }],
+"tomorrow" : [ {"name" :"go to doctors", {"name" :"file income tax", {"name" : "pay electricity bill", {"name" : "pay property tax" ],
+"upcoming" : [ {"name" : "visit Jane", "priority" : 1 }, {"name" :"plan birthday", "priority" : 1 }, {"name" : "plan vaccation for europe", "priority" : 1 }, {"name" : "book flights for for home", "priority" : 1 }]
 }
