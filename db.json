@@ -1,9 +1,60 @@
 {
-"today" : [ {"name" : "create resume", "priority" : 1 }, {"name" :"buy eggs", "priority" : 2 }, {"name" :"but books", "priority" : 3 }, {"name" :"post letters", "priority" : 4 }, {"name" :"design APIs", "priority" : 2 }],
-"tomorrow" : [ {"name" :"go to doctors", "priority" : 1 }]
-}, {"name" :"file income tax", "priority" : 1 }]
-}, {"name" : "pay electricity bill", "priority" : 2 }]
-}, {"name" : "pay property tax" , "priority" : 3 }]
-}],
-"upcoming" : [ {"name" : "visit Jane", "priority" : 2 }, {"name" :"plan birthday", "priority" : 3 }, {"name" : "plan vaccation for europe", "priority" : 4 }, {"name" : "book flights for for home", "priority" : 1 }]
+  "today": [
+    {
+      "name": "create resume",
+      "priority": 1
+    },
+    {
+      "name": "buy eggs",
+      "priority": 2
+    },
+    {
+      "name": "but books",
+      "priority": 3
+    },
+    {
+      "name": "post letters",
+      "priority": 4
+    },
+    {
+      "name": "design APIs",
+      "priority": 2
+    }
+  ],
+  "tomorrow": [
+    {
+      "name": "go to doctors",
+      "priority": 1
+    },
+    {
+      "name": "file income tax",
+      "priority": 1
+    },
+    {
+      "name": "pay electricity bill",
+      "priority": 2
+    },
+    {
+      "name": "pay property tax",
+      "priority": 3
+    }
+  ],
+  "upcoming": [
+    {
+      "name": "visit Jane",
+      "priority": 2
+    },
+    {
+      "name": "plan birthday",
+      "priority": 3
+    },
+    {
+      "name": "plan vaccation for europe",
+      "priority": 4
+    },
+    {
+      "name": "book flights for for home",
+      "priority": 1
+    }
+  ]
 }
